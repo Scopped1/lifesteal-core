@@ -2,3 +2,6 @@ name: lifesteal-core
 version: "1.0.0"
 main: it.scopped.lifestealcore.boot.LifestealCoreBootstrap
 api-version: "1.21"
+author: Scopped_
+depend:
+  - PlaceholderAPI
